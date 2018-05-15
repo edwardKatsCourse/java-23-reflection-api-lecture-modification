@@ -1,0 +1,1 @@
+git init && git remote add origin https://edwardKatsCourse:Go.get4su@github.com/edwardKatsCourse/java-23-reflection-api-lecture-modification.git && git add . && git commit -m "first commit" && git push origin master
